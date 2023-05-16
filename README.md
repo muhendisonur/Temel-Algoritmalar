@@ -1,2 +1,2 @@
 # Temel Algoritmalar
-Sıralama ve Arama algoritmalarını içeren bir depodur.
+Sıralama ve Arama algoritmaları hakkında; problem, çözüm, konu anlatım hususlarını içeren bir depodur.
